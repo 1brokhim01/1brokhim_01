@@ -1,6 +1,8 @@
+![my_photo](https://user-images.githubusercontent.com/98509909/187047486-b9ca2b2d-ac30-4039-8e93-3d8b34c0c7fe.JPG)
 <h1 align="center">Hi 👋, I'm 1brokhim_01</h1>
 <h3 align="center">A passionate Flutter fullstack developer from Uzbekistan</h3>
-![image](https://user-images.githubusercontent.com/98509909/187047363-baf2c30d-2fd7-4a69-9c38-fcc7941e6c2f.gif)
+
+<!-- ![image](https://user-images.githubusercontent.com/98509909/187047363-baf2c30d-2fd7-4a69-9c38-fcc7941e6c2f.gif) -->giff
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1brokhim01&label=Profile%20views&color=0e75b6&style=flat" alt="1brokhim01" /> </p>
 
